@@ -3,9 +3,6 @@
 
 This dataset is popular in predictive analytics, particularly in machine learning and data mining, as churn is an important issue for telecommunications companies. Knowing which customers are at risk of churn allows companies to take preventive measures to retain those customers.
 
-### Link Download Dataset:
-You can download in: [Customer Churn!](./Telco_customer_churn.csv)
-
 # Business Understanding:
 Problem -> Telecommunications companies face the challenge of retaining customers, especially in competitive markets.
 Goals:
